@@ -1,1 +1,1 @@
-# first_python_lab_ED25
+# python_lab_ED25
