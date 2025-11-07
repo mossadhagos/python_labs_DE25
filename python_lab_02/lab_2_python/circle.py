@@ -1,7 +1,7 @@
 import math 
-from shape import Shape2d
+from shape import Shape2D
 
-class Circle(Shape2d):
+class Circle(Shape2D):
     
     def __init__(self, x: float = 0, y: float = 0, radius: float = 1 ):
         super().__init__(x, y) 
