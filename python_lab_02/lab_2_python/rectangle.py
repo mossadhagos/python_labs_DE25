@@ -1,8 +1,8 @@
 
 import math
-from shape import Shape2d
+from shape import Shape2D
 
-class Rectangle(Shape2d):
+class Rectangle(Shape2D):
     
     def __init__(self, x: float = 0, y: float = 0, width: float = 1, height: float = 1):
         super().__init__(x,y)
