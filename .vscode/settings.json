@@ -1,5 +1,8 @@
 {
-    "github.branchProtection": false,
-    "github.gitAuthentication": false,
-    "github.copilot.renameSuggestions.triggerAutomatically": false
+  "github.branchProtection": false,
+  "github.gitAuthentication": false,
+  "github.copilot.renameSuggestions.triggerAutomatically": false,
+  "files.exclude": {
+    "**/*/adapters/**/index.ts": true
+  }
 }
